@@ -118,3 +118,4 @@ def add_employee():
         # Datenbank schließen
         mydb.close()
 
+print("GIT 3")
