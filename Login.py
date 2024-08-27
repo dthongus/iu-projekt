@@ -144,12 +144,6 @@ def main():
     GUI_menu.mainloop()
 
 
-
-print("GIT")
-
-
-print("GIT 2")
-
 # Funktion: Aufruf der Admin GUI zur Passworteingabe und Auswahl Account anlegen oder löschen
 def account_create_delete():
     # Menü Account anlegen aufrufen
